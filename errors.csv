@@ -1,0 +1,58 @@
+source_row,PassengerId,Name,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,true_survived,predicted_survived
+501,502,"Canavan, Miss. Mary",3,female,21.0,0,0,7.75,Q,0,1
+352,353,"Elias, Mr. Tannous",3,male,15.0,1,1,7.2292,C,0,1
+347,348,"Davison, Mrs. Thomas Henry (Mary E Finck)",3,female,,1,0,16.1,S,1,0
+868,869,"van Melkebeke, Mr. Philemon",3,male,,0,0,9.5,S,0,1
+826,827,"Lam, Mr. Len",3,male,,0,0,56.4958,S,0,1
+271,272,"Tornquist, Mr. William Henry",3,male,25.0,0,0,0.0,S,1,0
+142,143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",3,female,24.0,1,0,15.85,S,1,0
+146,147,"Andersson, Mr. August Edvard (""Wennerstrom"")",3,male,27.0,0,0,7.7958,S,1,0
+549,550,"Davies, Master. John Morgan Jr",2,male,8.0,1,1,36.75,S,1,0
+690,691,"Dick, Mr. Albert Adrian",1,male,31.0,1,0,57.0,S,1,0
+790,791,"Keane, Mr. Andrew ""Andy""",3,male,,0,0,7.75,Q,0,1
+241,242,"Murphy, Miss. Katherine ""Kate""",3,female,,1,0,15.5,Q,1,0
+204,205,"Cohen, Mr. Gurshon ""Gus""",3,male,18.0,0,0,8.05,S,1,0
+489,490,"Coutts, Master. Eden Leslie ""Neville""",3,male,9.0,1,1,15.9,S,1,0
+444,445,"Johannesen-Bratthammer, Mr. Bernt",3,male,,0,0,8.1125,S,1,0
+612,613,"Murphy, Miss. Margaret Jane",3,female,,1,0,15.5,Q,1,0
+459,460,"O'Connor, Mr. Maurice",3,male,,0,0,7.75,Q,0,1
+492,493,"Molson, Mr. Harry Markland",1,male,55.0,0,0,30.5,S,0,1
+442,443,"Petterson, Mr. Johan Emil",3,male,25.0,1,0,7.775,S,0,1
+137,138,"Futrelle, Mr. Jacques Heath",1,male,37.0,1,0,53.1,S,0,1
+55,56,"Woolner, Mr. Hugh",1,male,,0,0,35.5,S,1,0
+570,571,"Harris, Mr. George",2,male,62.0,0,0,10.5,S,1,0
+39,40,"Nicola-Yarred, Miss. Jamila",3,female,14.0,1,0,11.2417,C,1,0
+205,206,"Strom, Miss. Telma Matilda",3,female,2.0,0,1,10.4625,S,0,1
+126,127,"McMahon, Mr. Martin",3,male,,0,0,7.75,Q,0,1
+431,432,"Thorneycroft, Mrs. Percival (Florence Kate White)",3,female,,1,0,16.1,S,1,0
+199,200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",2,female,24.0,0,0,13.0,S,0,1
+712,713,"Taylor, Mr. Elmer Zebley",1,male,48.0,1,0,52.0,S,1,0
+23,24,"Sloper, Mr. William Thompson",1,male,28.0,0,0,35.5,S,1,0
+297,298,"Allison, Miss. Helen Loraine",1,female,2.0,1,2,151.55,S,0,1
+559,560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",3,female,36.0,1,0,17.4,S,1,0
+593,594,"Bourke, Miss. Mary",3,female,,0,2,7.75,Q,0,1
+830,831,"Yasbeck, Mrs. Antoni (Selini Alexander)",3,female,15.0,1,0,14.4542,C,1,0
+679,680,"Cardeza, Mr. Thomas Drake Martinez",1,male,36.0,0,1,512.3292,C,1,0
+484,485,"Bishop, Mr. Dickinson H",1,male,25.0,1,0,91.0792,C,1,0
+328,329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",3,female,31.0,1,1,20.525,S,1,0
+370,371,"Harder, Mr. George Achilles",1,male,25.0,1,0,55.4417,C,1,0
+502,503,"O'Sullivan, Miss. Bridget Mary",3,female,,0,0,7.6292,Q,0,1
+246,247,"Lindahl, Miss. Agda Thorilda Viktoria",3,female,25.0,0,0,7.775,S,0,1
+560,561,"Morrow, Mr. Thomas Rowan",3,male,,0,0,7.75,Q,0,1
+279,280,"Abbott, Mrs. Stanton (Rosa Hunt)",3,female,35.0,1,1,20.25,S,1,0
+377,378,"Widener, Mr. Harry Elkins",1,male,27.0,0,2,211.5,C,0,1
+804,805,"Hedman, Mr. Oskar Arvid",3,male,27.0,0,0,6.975,S,1,0
+428,429,"Flynn, Mr. James",3,male,,0,0,7.75,Q,0,1
+165,166,"Goldsmith, Master. Frank John William ""Frankie""",3,male,9.0,0,2,20.525,S,1,0
+532,533,"Elias, Mr. Joseph Jr",3,male,17.0,1,1,7.2292,C,0,1
+536,537,"Butt, Major. Archibald Willingham",1,male,45.0,0,0,26.55,S,0,1
+455,456,"Jalsevac, Mr. Ivan",3,male,29.0,0,0,7.8958,C,1,0
+17,18,"Williams, Mr. Charles Eugene",2,male,,0,0,13.0,S,1,0
+430,431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",1,male,28.0,0,0,26.55,S,1,0
+553,554,"Leeni, Mr. Fahim (""Philip Zenni"")",3,male,22.0,0,0,7.225,C,1,0
+776,777,"Tobin, Mr. Roger",3,male,,0,0,7.75,Q,0,1
+245,246,"Minahan, Dr. William Edward",1,male,44.0,2,0,90.0,Q,0,1
+196,197,"Mernagh, Mr. Robert",3,male,,0,0,7.75,Q,0,1
+186,187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",3,female,,1,0,15.5,Q,1,0
+731,732,"Hassan, Mr. Houssein G N",3,male,11.0,0,0,18.7875,C,0,1
+587,588,"Frolicher-Stehli, Mr. Maxmillian",1,male,60.0,1,1,79.2,C,1,0

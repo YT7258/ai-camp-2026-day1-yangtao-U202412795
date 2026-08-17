@@ -1,0 +1,54 @@
+{
+  "dataset": {
+    "name": "Titanic Dataset train.csv",
+    "source": "Kaggle hesh97/titanicdataset-traincsv",
+    "rows": 891,
+    "features": [
+      "Pclass",
+      "Sex",
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare",
+      "Embarked"
+    ],
+    "target": "Survived",
+    "test_rows": 223,
+    "missing_values": {
+      "Age": 177,
+      "Embarked": 2
+    }
+  },
+  "baseline": {
+    "accuracy": 0.6143497757847534,
+    "precision_survived": 0.0,
+    "recall_survived": 0.0,
+    "f1_survived": 0.0,
+    "confusion_matrix_labels_0_1": [
+      [
+        137,
+        0
+      ],
+      [
+        86,
+        0
+      ]
+    ]
+  },
+  "candidate": {
+    "accuracy": 0.7443946188340808,
+    "precision_survived": 0.6835443037974683,
+    "recall_survived": 0.627906976744186,
+    "f1_survived": 0.6545454545454545,
+    "confusion_matrix_labels_0_1": [
+      [
+        112,
+        25
+      ],
+      [
+        32,
+        54
+      ]
+    ]
+  }
+}
